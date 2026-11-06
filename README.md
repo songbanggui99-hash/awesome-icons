@@ -56,6 +56,7 @@ Icons are essential for intuitive design and user interfaces. This list covers b
 - [Fontello](http://fontello.com/) – Build your own icon fonts.
 - [IconJar](https://geticonjar.com/) – Mac app for organizing icon sets.
 - [Favicon.io](https://favicon.io/) – Generate favicons from text, images, or emojis.
+- [ICOForge](https://icoforge.com/ico-to-png) – Decode and extract frames from .ico files in the browser.
 
 ## Icons for Development
 
