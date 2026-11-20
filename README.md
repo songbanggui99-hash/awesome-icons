@@ -57,6 +57,8 @@ Icons are essential for intuitive design and user interfaces. This list covers b
 - [IconJar](https://geticonjar.com/) – Mac app for organizing icon sets.
 - [Favicon.io](https://favicon.io/) – Generate favicons from text, images, or emojis.
 
+- [ICOForge](https://icoforge.com/) – Convert images to multi-size ICO files locally in the browser, with downloadable transparency test fixtures.
+
 ## Icons for Development
 
 - [Font Awesome](https://fontawesome.com/) – Popular icon toolkit with web fonts and SVGs.
